@@ -1,14 +1,10 @@
 # make-exe
-the only thing your requiered to do 
-is place this script in the same folder as your script
-that you want to make exe.
-double click and choose run this script in terminal.
-and simply type the name of your script.
-
-this script will then
-make your script executable
-and run your script in terminal.
-this script also notifys you after each proccess.
+# place this script in the same folder as your script.
+# double click this script and choose run in terminal.
+# type your script name Example: myscript.sh
+# this script will make your script executable
+# this script will then run your script in terminal.
+# this script will notify you after each proccess.
 
 [note:copy&paste this script in to other folders for making exe files.]
 
