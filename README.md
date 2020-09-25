@@ -1,6 +1,6 @@
 # make-exe
-the only thing your requiered to do is place this script           
-in the same folder as your script
+the only thing your requiered to do 
+is place this script in the same folder as your script
 that you want to make exe.
 double click and choose run this script in terminal.
 and simply type the name of your script.
